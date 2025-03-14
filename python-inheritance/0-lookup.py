@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""Module with a func that returns attrs and mthds of an object:."""
+"""prints all def and variables"""
 
 
 def lookup(obj):
-    """Return a list of avail attrs nd mtds."""
-    return (dir(obj))
+    """ returning the  list of the available attributes and methods"""
+    return(dir(obj))

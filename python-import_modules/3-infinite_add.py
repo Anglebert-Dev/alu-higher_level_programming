@@ -1,10 +1,8 @@
 #!/usr/bin/python3
+from sys import argv
+
 if __name__ == "__main__":
-    """
-        Prints the addition of all arguments
-    """
-    from sys import argv
-    ans = 0
-    for arg in range(1, len(argv)):
-        ans += int(argv[arg])
-    print(ans)
+    result = 0
+    for i in range(1, len(argv)):
+        result += int(argv[i])
+    print(result)
