@@ -1,1 +1,1 @@
-# SQL Introduction
+Author: Joshua Alana

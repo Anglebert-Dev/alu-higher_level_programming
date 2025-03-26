@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-"""
-Defines an empty class.
-"""
+"""Define a class Sqaure"""
 
 
 class Square:
-    """
-    Representing  an empty square.
-    """
+    """class sqaure"""
     pass

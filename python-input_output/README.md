@@ -1,13 +1,7 @@
-# Python Input/Output Project
+# Python - Input/Output
 
-This project contains Python scripts for handling file input and output operations.
+```diff
 
-## Files
+- Python
 
-- `0-read_file.py`: A function to read and print the contents of a text file.
-
-## Usage
-
-To run the `0-read_file.py` script:
-```bash
-python3 0-read_file.py
+```

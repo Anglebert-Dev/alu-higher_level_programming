@@ -1,2 +1,2 @@
--- Script that lists all rows of the table first_table
-SELECT * FROM first_table;
+-- sql tables --
+SELECT * FROM `first_table`;

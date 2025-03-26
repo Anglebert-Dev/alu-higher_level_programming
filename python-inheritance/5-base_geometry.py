@@ -1,7 +1,10 @@
 #!/usr/bin/python3
-""" BaseGeometry class."""
+"""
+This is an empty BaseGeometry class.
+"""
 
 
 class BaseGeometry:
-    """ method area()."""
+    ''' Class: BaseGeometry
+    '''
     pass
